@@ -19,7 +19,7 @@ Previously at Asana, working across iOS and backend platform systems at scale. I
 - **[phototagger](https://github.com/electricalen/phototagger)**  
   SwiftUI iPhone app for large photo libraries, with local indexing, duplicate detection, inbox-first cleanup workflows, and a SQLite-backed architecture on top of PhotoKit.
 
-- **[telegrambot](https://github.com/electricalen/telegrambot)**  
+- **[telegrambot](https://github.com/electricalen/telegrambot-cli)**  
   Python framework for building owner-only Telegram bots with CLI-style command parsing, Pydantic-backed argument models, plugin loading, and optional scheduled jobs.
 
 ## Current Focus
